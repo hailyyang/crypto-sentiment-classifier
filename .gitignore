@@ -38,3 +38,5 @@ Thumbs.db
 # Results (optional - you might want to commit visualizations)
 results/*.png
 results/*.jpgmodels/
+models/
+venv/
