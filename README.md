@@ -5,11 +5,6 @@ NLP project analyzing cryptocurrency sentiment from social media and news.
 ## Project Goal
 Build a sentiment analysis model to classify crypto-related text and explore correlations with price movements.
 
-## Week 1 Progress ✅
-- Collected Bitcoin price data (CoinGecko API)
-- Scraped crypto tweets using snscrape
-- Applied VADER sentiment analysis baseline
-- Created initial visualizations
 
 ## Project Structure
 ```
@@ -30,8 +25,9 @@ crypto-sentiment-project/
 - VADER Sentiment Analysis
 - Jupyter Notebooks
 
-## Next Steps
-- Week 2: Fine-tune transformer model (FinBERT/DistilBERT)
+## Weekly Progress overview 
+- Week 1: Bitcoin price data and Reddit posts scrape. Applied VADER sentiment analysis baseline
+- Week 2: Fine-tune transformer model (FinBERT) and compare its results with the VADER baseline
 - Week 3: Correlate sentiment with price movements
 - Week 4: Build interactive dashboard
 
