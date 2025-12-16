@@ -24,7 +24,6 @@ crypto-sentiment-project/
 ## Tech Stack
 - Python 3.9+
 - pandas, numpy, matplotlib
-- snscrape (Twitter scraping)
 - VADER Sentiment Analysis
 - Jupyter Notebooks
 
