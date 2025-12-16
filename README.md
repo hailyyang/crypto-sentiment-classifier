@@ -14,7 +14,10 @@ crypto-sentiment-project/
 │   └── processed/        # Cleaned data with sentiment labels
 ├── notebooks/
 │   └── 01_data_collection.ipynb
+│   └── 02_model_training.ipynb
 ├── results/              # Visualizations and outputs
+├── models/               # Saved trained model
+├── reddit_matrix_scrape.py  # Script for scraping Reddit posts
 └── requirements.txt
 ```
 
